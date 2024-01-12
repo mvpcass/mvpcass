@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Hi! I'm MVPCass</title>
+  </head>
+<body>
+  <h1> Who's MVPCass? </h1>
+    <div id="introduction">
+  <h2> About Me </h2>
+  <p> I'm a 30-something year old looking to flip my world upside down, in the best way. <br> 
+  I've always been interested in coding, I mean come on... I'm a Millennial who grew up with Myspace and Tumblr... <br> 
+  Anyway, I wanted to take a stab at creating my own website. At the moment, I would like for it to be a palce where friends and family can make reservations to hire me to cook for them <br>
+  In time, this may turn into something completely different, stay tuned! ... </p>
+<a href="https://www.linkedin.com/in/cassandracolby"> Wanna see my professional skills? </a>
+<a href="https://www.instagram.com/mvp.casss/"> Wanna see my life when I'm not working? </a>
+</html>
